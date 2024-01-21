@@ -7,7 +7,7 @@
 	border-radius: 4px;
 }
 
-.locations, .amenities {
+.filters .locations, .filters .amenities {
 	display: grid;
 	position: relative;
 	place-content: center;
